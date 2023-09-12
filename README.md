@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiqxz&label=Profile%20views&color=0e75b6&style=flat" alt="faiqxz" /> </p>
 
-- 🌱 I’m currently learning **Nmap, Wireshark, and Kali Linux**
+- 🌱 I’m currently learning **Python for Machine Learning**
 
 - 📫 How to reach me **faiqsc@gmail.com**
 
